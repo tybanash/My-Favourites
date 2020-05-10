@@ -1,0 +1,41 @@
+body {
+	background-color: #f2f2f2;  
+}
+
+h1 {
+	color: #ff0000; 
+	font-family: sans-serif;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #ff0000;
+	font-family: sans-serif;
+}
+
+p {
+	font-family: serif; 
+}
+
+ul {
+	font-family: serif;
+}
+
+em {
+	color: #ffae42;
+}
+
+a {
+	color: #0000ff;
+	text-decoration: underline;
+	font-family: serif;
+}
+
+a:hover {
+	font-weight: 700;
+	
+}
+
+a:visited {
+	color: #9999ff;
+}

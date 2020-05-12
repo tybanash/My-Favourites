@@ -39,3 +39,7 @@ a:hover {
 a:visited {
 	color: #9999ff;
 }
+
+div > a {
+	font-size: 12px;
+}
